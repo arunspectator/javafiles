@@ -1,4 +1,3 @@
-package oops;
 
 public class ObjDemo {
 	int a;
