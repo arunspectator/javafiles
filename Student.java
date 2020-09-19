@@ -1,6 +1,6 @@
 class Student{  
 	   
-	 int id=10;
+	 int id=001;
 	 String name;  
 	
 	 public static void main(String args[]){  
