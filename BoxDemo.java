@@ -11,9 +11,9 @@ class BoxDemo {
 		// TODO Auto-generated method stub
 		Box mybox=new Box();
 		
-		mybox.width=10;
-		mybox.height=20;
-		mybox.depth=15;
+		mybox.width=1;
+		mybox.height=2;
+		mybox.depth=1;
 		mybox.vol=mybox.width+mybox.height+mybox.depth;
 		System.out.println("Volume is "+mybox.vol);
 
